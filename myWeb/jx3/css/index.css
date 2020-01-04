@@ -46,68 +46,6 @@ html,body {
     overflow: hidden; 
 }
 
-#navigation {
-    height: 100%;
-    width: 100%;
-}
-
-#navigation_left {
-    background-color: salmon;
-    width: 40px;
-    height: 100%;  
-}
-
-#menu_left {
-    background-color:#42485b;
-;
-    width: 200px;
-    height: 100%;
-}
-
-#main_menu{
-    color:#fff;
-    background-color: #42485b;
-    width: 100%;
-    font-size: 20px;
-}
-.menu_children{
-    margin-left: 0px;
-}
-.menu_title {
-    padding-left: 0px;
-    line-height: 50px;
-}
-.menu_icon {
-    display:inline-block;
-    background-image: url("../img/wd.jpg");
-    height: 30px;
-    width: 30px;
-    background-position: center;
-    background-size: cover;
-    
-}
-
-
-.menu_text {
-    padding-left: 6px;
-}
-
-
-.menu_children {
-    padding: 0px;
-    margin: 0px;
-    list-style: none;
-}
-
-
-#navigation_right{
-    background-color: slategray;
-    height: 100%;
-    width: 50px;
-    /* float: right; */
-    margin-top: 0px;
-    margin-bottom: 0px;
-}
 #content{
     width:100%;
     height:100%;

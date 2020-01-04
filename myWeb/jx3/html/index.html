@@ -5,6 +5,7 @@
     <title>Page Title</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link type='text/css' href='../css/index.css' rel="stylesheet">
+    <link type='text/css' href='../css/menu.css' rel="stylesheet">
     <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
 </head>
 <body id="app">
@@ -26,6 +27,7 @@
         </div>
     </div>
     
+
     
 
     
@@ -37,7 +39,9 @@
                 </div>
                 <div id="menu_left" style="display: none" onclick="closeMenu()">
                     <ul id="main_menu">
-                        <li class="menu_children">
+                        <li class="menu_children">$('ul>li>a').click(function(){
+                            $(this).next('ul').toggle();
+                            })
                             <a class="menu_title">
                                 <i class="menu_icon"></i>
                                 <span class="menu_text">菜单1</span>
@@ -48,7 +52,7 @@
                                         <i class="menu_icon"></i>
                                         <span class="menu_text">子菜单1</span>
                                     </a>
-                                    
+
                                 </li>
                             </ul>
                         </li>
@@ -106,7 +110,9 @@
             $("#navigation_left").show(0);
             $("#content_left").css("width","40px");
         })
-        
+        $('ul>li>a').click(function(){
+$(this).next('ul').toggle();
+})
 
     </script>
 </body>

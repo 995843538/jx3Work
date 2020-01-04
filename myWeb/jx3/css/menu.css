@@ -1,0 +1,65 @@
+
+#navigation {
+    height: 100%;
+    width: 100%;
+}
+
+#navigation_left {
+    background-color: salmon;
+    width: 40px;
+    height: 100%;  
+}
+
+#menu_left {
+    background-color:#42485b;
+;
+    width: 200px;
+    height: 100%;
+}
+
+#main_menu{
+    color:#fff;
+    background-color: #42485b;
+    width: 100%;
+    font-size: 14px;
+
+}
+.menu_children{
+    margin-left: 0px;
+}
+.menu_title {
+    
+    line-height: 30px;
+}
+.menu_icon {
+    display:inline-block;
+    background-image: url("../img/wd.jpg");
+    height: 14px;
+    width: 14px;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+
+.menu_text {
+    padding-left: 6px;
+}
+
+
+.menu_children {
+    list-style: none;
+    
+
+
+}
+
+
+#navigation_right{
+    background-color: slategray;
+    height: 100%;
+    width: 50px;
+    /* float: right; */
+    margin-top: 0px;
+    margin-bottom: 0px;
+}

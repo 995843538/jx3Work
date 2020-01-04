@@ -1,96 +1,55 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset='utf-8'>
     <title>Page Title</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link type='text/css' href='../css/index.css' rel="stylesheet">
+    <link type='text/css' href='../css/menu.css' rel="stylesheet">
     <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
 </head>
+
 <body id="app">
     <div id="header">
         <a id="logo" href="index.html">
             <img src="../img/logo.png">
         </a>
         <div id="user_data">
-            <div id="user_message_logo" >
-                <a  href="">
+            <div id="user_message_logo">
+                <a href="">
                     <img style="height: 100%; width: auto;" src="../img/gb.jpg" onclick="avatarButtonClick()">
                 </a>
             </div>
             <div id="user_avatar">
-                <a  href="">
+                <a href="">
                     <img style="height: 100%; width: auto;" src="../img/gb.jpg" onclick="avatarButtonClick()">
                 </a>
-            </div>  
+            </div>
         </div>
     </div>
-    
-    
 
-    
+
+
+
     <div id="content" style="display:inline-block;display:flex">
         <div id="content">
-			<div id="content_left">
+            <div id="content_left">
                 <!-- <div id="navigation_left" style="display: inline-block;" onclick="showMenu()">
                     navigation_left
                 </div> -->
                 <div id="menu_left" style="display: none" onclick="closeMenu()">
-                    <ul id="main_menu">
-                        <li class="menu_children">
-                            <a class="menu_title">
-                                <i class="menu_icon"></i>
-                                <span class="menu_text">菜单1</span>
-                            </a>
-                            <ul>
-                                <li class="menu_children">
-                                    <a class="menu_title">
-                                        <i class="menu_icon"></i>
-                                        <span class="menu_text">子菜单1</span>
-                                    </a>
-                                    
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="menu_children">
-                            <a class="menu_title">
-                                <i class="menu_icon"></i>
-                                <span class="menu_text">菜单2</span>
-                            </a>
-                            
-                        </li>
-                        <li class="menu_children">
-                            <a class="menu_title">
-                                <i class="menu_icon"></i>
-                                <span class="menu_text">菜单3</span>
-                            </a>
-                            
-                        </li>
-                        <li class="menu_children">
-                            <a class="menu_title">
-                                <i class="menu_icon"></i>
-                                <span class="menu_text">菜单4</span>
-                            </a>
-                            
-                        </li>
-                        <li class="menu_children">
-                            <a class="menu_title">
-                                <i class="menu_icon"></i>
-                                <span class="menu_text">菜单5</span>
-                            </a>
-                            
-                        </li>
-                    </ul>
+                    
                 </div>
             </div>
-			<div id="content_center">center</div>
-			<div id="content_right">right</div>
-		</div>
-        
+            <div id="content_center">center</div>
+            <div id="content_right">right</div>
+        </div>
+
     </div>
-    
+
     <script>
-        window.onload=function(){
+        window.onload = function () {
             $("#menu_left").show(0);
         }
         // function avatarButtonClick(){
@@ -109,8 +68,9 @@
         //     $("#navigation_left").show(0);
         //     $("#content_left").css("width","40px");
         // })
-        
+
 
     </script>
 </body>
+
 </html>
