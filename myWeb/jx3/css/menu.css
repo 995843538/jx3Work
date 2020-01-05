@@ -12,7 +12,6 @@
 
 #menu_left {
     background-color:#42485b;
-;
     width: 200px;
     height: 100%;
 }
@@ -22,10 +21,11 @@
     background-color: #42485b;
     width: 100%;
     font-size: 14px;
+    margin: 0px;
 
 }
 .menu_children{
-    margin-left: 0px;
+    margin-left: -30px;
 }
 .menu_title {
     
