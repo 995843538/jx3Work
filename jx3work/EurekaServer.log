@@ -1,0 +1,102 @@
+2020-01-20 14:31:04,094 INFO  Jx3MainApplication:48 -Starting Jx3MainApplication on DESKTOP-QBUMRPD with PID 96 (C:\workspace\javaWorkspacce\jx3work\target\classes started by Think in C:\workspace\javaWorkspacce\jx3work)
+2020-01-20 14:31:04,100 DEBUG Jx3MainApplication:51 -Running with Spring Boot v1.5.13.RELEASE, Spring v4.3.17.RELEASE
+2020-01-20 14:31:04,101 INFO  Jx3MainApplication:593 -No active profile set, falling back to default profiles: default
+2020-01-20 14:31:04,780 DEBUG logging:19 -Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2020-01-20 14:31:04,782 INFO  Version:30 -HV000001: Hibernate Validator 5.3.6.Final
+2020-01-20 14:31:04,861 DEBUG DefaultTraversableResolver:70 -Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-01-20 14:31:05,840 DEBUG DefaultTraversableResolver:70 -Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-01-20 14:31:05,862 DEBUG DefaultTraversableResolver:70 -Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-01-20 14:31:05,869 DEBUG ConfigurationImpl:163 -Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-01-20 14:31:05,870 DEBUG ConfigurationImpl:185 -Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-01-20 14:31:05,873 DEBUG ConfigurationImpl:199 -Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy57
+2020-01-20 14:31:05,876 DEBUG ValidationXmlParser:99 -Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-01-20 14:31:05,878 DEBUG ResourceLoaderHelper:47 -Trying to load META-INF/validation.xml via user class loader
+2020-01-20 14:31:05,880 DEBUG ResourceLoaderHelper:54 -Trying to load META-INF/validation.xml via TCCL
+2020-01-20 14:31:05,881 DEBUG ResourceLoaderHelper:60 -Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-01-20 14:31:05,882 DEBUG ValidationXmlParser:106 -No META-INF/validation.xml found. Using annotation based configuration only.
+2020-01-20 14:31:07,358 INFO  Http11NioProtocol:180 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-20 14:31:07,396 INFO  StandardService:180 -Starting service [Tomcat]
+2020-01-20 14:31:07,397 INFO  StandardEngine:180 -Starting Servlet Engine: Apache Tomcat/8.5.31
+2020-01-20 14:31:07,708 INFO  [/]:180 -Initializing Spring embedded WebApplicationContext
+2020-01-20 14:31:08,168 DEBUG DefaultTraversableResolver:70 -Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-01-20 14:31:08,180 DEBUG DefaultTraversableResolver:70 -Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-01-20 14:31:08,180 DEBUG ConfigurationImpl:163 -Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-01-20 14:31:08,180 DEBUG ConfigurationImpl:185 -Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-01-20 14:31:08,181 DEBUG ConfigurationImpl:199 -Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy57
+2020-01-20 14:31:08,181 DEBUG ValidationXmlParser:99 -Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-01-20 14:31:08,182 DEBUG ResourceLoaderHelper:47 -Trying to load META-INF/validation.xml via user class loader
+2020-01-20 14:31:08,183 DEBUG ResourceLoaderHelper:54 -Trying to load META-INF/validation.xml via TCCL
+2020-01-20 14:31:08,183 DEBUG ResourceLoaderHelper:60 -Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-01-20 14:31:08,184 DEBUG ValidationXmlParser:106 -No META-INF/validation.xml found. Using annotation based configuration only.
+2020-01-20 14:31:09,040 INFO  Http11NioProtocol:180 -Starting ProtocolHandler ["http-nio-8080"]
+2020-01-20 14:31:09,145 INFO  NioSelectorPool:180 -Using a shared selector for servlet write/read
+2020-01-20 14:31:09,314 INFO  Jx3MainApplication:57 -Started Jx3MainApplication in 6.007 seconds (JVM running for 7.589)
+2020-01-20 14:51:20,191 INFO  Jx3MainApplication:48 -Starting Jx3MainApplication on DESKTOP-QBUMRPD with PID 10872 (C:\workspace\javaWorkspacce\jx3work\target\classes started by Think in C:\workspace\javaWorkspacce\jx3work)
+2020-01-20 14:51:20,198 DEBUG Jx3MainApplication:51 -Running with Spring Boot v1.5.13.RELEASE, Spring v4.3.17.RELEASE
+2020-01-20 14:51:20,199 INFO  Jx3MainApplication:593 -No active profile set, falling back to default profiles: default
+2020-01-20 14:51:20,835 DEBUG logging:19 -Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2020-01-20 14:51:20,837 INFO  Version:30 -HV000001: Hibernate Validator 5.3.6.Final
+2020-01-20 14:51:20,868 DEBUG DefaultTraversableResolver:70 -Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-01-20 14:51:22,395 DEBUG DefaultTraversableResolver:70 -Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-01-20 14:51:22,413 DEBUG DefaultTraversableResolver:70 -Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-01-20 14:51:22,424 DEBUG ConfigurationImpl:163 -Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-01-20 14:51:22,425 DEBUG ConfigurationImpl:185 -Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-01-20 14:51:22,427 DEBUG ConfigurationImpl:199 -Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy59
+2020-01-20 14:51:22,430 DEBUG ValidationXmlParser:99 -Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-01-20 14:51:22,433 DEBUG ResourceLoaderHelper:47 -Trying to load META-INF/validation.xml via user class loader
+2020-01-20 14:51:22,434 DEBUG ResourceLoaderHelper:54 -Trying to load META-INF/validation.xml via TCCL
+2020-01-20 14:51:22,435 DEBUG ResourceLoaderHelper:60 -Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-01-20 14:51:22,435 DEBUG ValidationXmlParser:106 -No META-INF/validation.xml found. Using annotation based configuration only.
+2020-01-20 14:51:23,728 INFO  Http11NioProtocol:180 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-20 14:51:23,762 INFO  StandardService:180 -Starting service [Tomcat]
+2020-01-20 14:51:23,763 INFO  StandardEngine:180 -Starting Servlet Engine: Apache Tomcat/8.5.31
+2020-01-20 14:51:24,085 INFO  [/]:180 -Initializing Spring embedded WebApplicationContext
+2020-01-20 14:51:24,570 DEBUG DefaultTraversableResolver:70 -Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-01-20 14:51:24,586 DEBUG DefaultTraversableResolver:70 -Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-01-20 14:51:24,587 DEBUG ConfigurationImpl:163 -Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-01-20 14:51:24,587 DEBUG ConfigurationImpl:185 -Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-01-20 14:51:24,587 DEBUG ConfigurationImpl:199 -Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy59
+2020-01-20 14:51:24,588 DEBUG ValidationXmlParser:99 -Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-01-20 14:51:24,588 DEBUG ResourceLoaderHelper:47 -Trying to load META-INF/validation.xml via user class loader
+2020-01-20 14:51:24,589 DEBUG ResourceLoaderHelper:54 -Trying to load META-INF/validation.xml via TCCL
+2020-01-20 14:51:24,590 DEBUG ResourceLoaderHelper:60 -Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-01-20 14:51:24,590 DEBUG ValidationXmlParser:106 -No META-INF/validation.xml found. Using annotation based configuration only.
+2020-01-20 14:51:26,428 INFO  Http11NioProtocol:180 -Starting ProtocolHandler ["http-nio-8080"]
+2020-01-20 14:51:26,528 INFO  NioSelectorPool:180 -Using a shared selector for servlet write/read
+2020-01-20 14:51:27,028 INFO  Jx3MainApplication:57 -Started Jx3MainApplication in 7.607 seconds (JVM running for 9.909)
+2020-01-20 14:52:44,508 INFO  [/]:180 -Initializing Spring FrameworkServlet 'dispatcherServlet'
+2020-01-20 14:53:34,735 INFO  Jx3MainApplication:48 -Starting Jx3MainApplication on DESKTOP-QBUMRPD with PID 7104 (C:\workspace\javaWorkspacce\jx3work\target\classes started by Think in C:\workspace\javaWorkspacce\jx3work)
+2020-01-20 14:53:34,741 DEBUG Jx3MainApplication:51 -Running with Spring Boot v1.5.13.RELEASE, Spring v4.3.17.RELEASE
+2020-01-20 14:53:34,741 INFO  Jx3MainApplication:593 -No active profile set, falling back to default profiles: default
+2020-01-20 14:53:35,431 DEBUG logging:19 -Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2020-01-20 14:53:35,433 INFO  Version:30 -HV000001: Hibernate Validator 5.3.6.Final
+2020-01-20 14:53:35,469 DEBUG DefaultTraversableResolver:70 -Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-01-20 14:53:36,792 DEBUG DefaultTraversableResolver:70 -Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-01-20 14:53:36,808 DEBUG DefaultTraversableResolver:70 -Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-01-20 14:53:36,815 DEBUG ConfigurationImpl:163 -Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-01-20 14:53:36,817 DEBUG ConfigurationImpl:185 -Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-01-20 14:53:36,819 DEBUG ConfigurationImpl:199 -Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy59
+2020-01-20 14:53:36,823 DEBUG ValidationXmlParser:99 -Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-01-20 14:53:36,825 DEBUG ResourceLoaderHelper:47 -Trying to load META-INF/validation.xml via user class loader
+2020-01-20 14:53:36,826 DEBUG ResourceLoaderHelper:54 -Trying to load META-INF/validation.xml via TCCL
+2020-01-20 14:53:36,827 DEBUG ResourceLoaderHelper:60 -Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-01-20 14:53:36,828 DEBUG ValidationXmlParser:106 -No META-INF/validation.xml found. Using annotation based configuration only.
+2020-01-20 14:53:38,144 INFO  Http11NioProtocol:180 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-01-20 14:53:38,188 INFO  StandardService:180 -Starting service [Tomcat]
+2020-01-20 14:53:38,189 INFO  StandardEngine:180 -Starting Servlet Engine: Apache Tomcat/8.5.31
+2020-01-20 14:53:38,419 INFO  [/]:180 -Initializing Spring embedded WebApplicationContext
+2020-01-20 14:53:38,939 DEBUG DefaultTraversableResolver:70 -Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-01-20 14:53:38,954 DEBUG DefaultTraversableResolver:70 -Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-01-20 14:53:38,955 DEBUG ConfigurationImpl:163 -Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-01-20 14:53:38,955 DEBUG ConfigurationImpl:185 -Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-01-20 14:53:38,956 DEBUG ConfigurationImpl:199 -Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy59
+2020-01-20 14:53:38,956 DEBUG ValidationXmlParser:99 -Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-01-20 14:53:38,956 DEBUG ResourceLoaderHelper:47 -Trying to load META-INF/validation.xml via user class loader
+2020-01-20 14:53:38,957 DEBUG ResourceLoaderHelper:54 -Trying to load META-INF/validation.xml via TCCL
+2020-01-20 14:53:38,957 DEBUG ResourceLoaderHelper:60 -Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-01-20 14:53:38,958 DEBUG ValidationXmlParser:106 -No META-INF/validation.xml found. Using annotation based configuration only.
+2020-01-20 14:53:39,587 WARN  AbstractTemplateResolverConfiguration:60 -Cannot find template location: classpath:/templates/html/ (please add some templates or check your Thymeleaf configuration)
+2020-01-20 14:53:41,052 INFO  Http11NioProtocol:180 -Starting ProtocolHandler ["http-nio-8080"]
+2020-01-20 14:53:41,152 INFO  NioSelectorPool:180 -Using a shared selector for servlet write/read
+2020-01-20 14:53:41,705 INFO  Jx3MainApplication:57 -Started Jx3MainApplication in 7.827 seconds (JVM running for 9.577)
+2020-01-20 14:53:49,653 INFO  [/]:180 -Initializing Spring FrameworkServlet 'dispatcherServlet'
